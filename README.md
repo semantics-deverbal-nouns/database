@@ -1,6 +1,6 @@
 # Database
 
-This repository contains the different versions of the SONDE database.
+This repository contains the SONDE database.
 
 Current version: June 2025.
 
